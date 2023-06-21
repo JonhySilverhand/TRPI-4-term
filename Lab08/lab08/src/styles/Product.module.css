@@ -1,0 +1,17 @@
+.productImage {
+    display: block;
+    width: auto;
+    height: 200px;
+    border-radius: 4px;
+    margin: 0 auto;
+}
+.productName {
+    text-align: center;
+}
+.productContainer {
+    width: 220px;
+}
+.price {
+    text-align: center;
+    font-size: 16pt;
+}
